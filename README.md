@@ -1,43 +1,55 @@
 # 👋 Bienvenue sur mon GitHub
 
 Je suis **Alpha Dev Web**, développeur web freelance en devenir.  
-Spécialisé pour l’instant dans la création de sites vitrines simples, esthétiques et responsive.
+Je me spécialise dans la création de **sites vitrines modernes, responsive et accessibles**.
 
 ---
 
-### 🚀 Projets récents
+## 🚀 Projets récents
 
-- [💼 Élodie Coach – site vitrine](https://alphadevweb.github.io/elodie-coach/)  
-  Site responsive réalisé avec HTML & CSS, avec un carrousel, une galerie, et une intégration WhatsApp.
+### 💼 [Élodie Coach – Site vitrine](https://alphadevweb.github.io/elodie-coach/)
+Site responsive réalisé en **HTML & CSS**, intégrant :
+- un carrousel de témoignages
+- une galerie de services
+- une section contact personnalisée (WhatsApp)
+- une mise en page douce et professionnelle
 
-- [🥖 Boulangerie Dupain](https://alphadevweb.github.io/boulangerie-dupain/index.html)  
-  Un exercice de site fictif pour travailler la structure HTML/CSS, les images, les titres, etc.
-
----
-
-### 🛠️ Compétences actuelles
-
-- HTML5 sémantique
-- CSS3 (Flexbox, Grid)
-- Responsive design mobile-first
-- Accessibilité (balises `alt`, structure claire, `aria-label`)
-- SEO basique (titres hiérarchisés, code propre)
-- Git / GitHub
+### 🥖 [Boulangerie Dupain](https://alphadevweb.github.io/boulangerie-dupain/index.html)
+Site fictif réalisé pour m’entraîner à :
+- structurer un site HTML/CSS
+- utiliser des images libres de droit
+- travailler la hiérarchie des titres et le design responsive
 
 ---
 
-### 📚 En cours d’apprentissage
+## 🛠️ Compétences actuelles
 
-- JavaScript DOM
+- HTML5 sémantique  
+- CSS3 (Flexbox, Grid, responsive mobile-first)  
+- Accessibilité (balises `alt`, structure claire, `aria-label`)  
+- SEO basique (titres hiérarchisés, code propre)  
+- Git & GitHub  
+
+---
+
+## 📚 En cours d’apprentissage
+
+- JavaScript DOM (interactivité simple)
 - Création de blog statique
-- Amélioration de la performance web
+- Optimisation des performances web
 
 ---
 
-### 📬 Contact
+## 📬 Me contacter
 
-[📧 alphadevweb@mail.com](mailto:alphadevweb.freelance@gmail.com)
+📧 [alphadevweb@mail.com](mailto:alphadevweb.freelance@gmail.com)
 
 ---
 
-![Statut](https://img.shields.io/badge/disponibilit%C3%A9-non%20disponible-red?style=flat-square)
+## 🔄 Statut
+
+![Statut de disponibilité](https://img.shields.io/badge/Statut-Indisponible-red?style=flat-square)
+
+---
+
+> *Je suis en phase de professionnalisation et j’ajoute régulièrement de nouveaux projets. Mon objectif : devenir un développeur web freelance complet, fiable, et à l’écoute de mes clients.*
