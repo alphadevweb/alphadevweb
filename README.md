@@ -42,7 +42,7 @@ Site fictif réalisé pour m’entraîner à :
 
 ## 📬 Me contacter
 
-📧 [alphadevweb@mail.com](mailto:alphadevweb.freelance@gmail.com)
+📧 [alphadevweb.freelance@gmail.com](mailto:alphadevweb.freelance@gmail.com)
 
 ---
 
