@@ -10,7 +10,7 @@ Spécialisé pour l’instant dans la création de sites vitrines simples, esth�
 - [💼 Élodie Coach – site vitrine](https://alphadevweb.github.io/elodie-coach/)  
   Site responsive réalisé avec HTML & CSS, avec un carrousel, une galerie, et une intégration WhatsApp.
 
-- [🥖 Boulangerie Dupain]([https://alphadevweb.github.io/boulangerie-dupain/index.html)  
+- [🥖 Boulangerie Dupain](https://alphadevweb.github.io/boulangerie-dupain/index.html)  
   Un exercice de site fictif pour travailler la structure HTML/CSS, les images, les titres, etc.
 
 ---
